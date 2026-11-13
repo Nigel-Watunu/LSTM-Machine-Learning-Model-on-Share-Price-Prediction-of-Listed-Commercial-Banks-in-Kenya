@@ -1,1 +1,1 @@
-# LSTM-Machine-Learning-Model-on-Share-Price-Prediction-of-Listed-Commercial-Banks-in-Kenya
+# LSTM-on-Share-Price-Prediction-of-Listed-Commercial-Banks-in-Kenya
